@@ -25,7 +25,7 @@ export default function Contact() {
               © {getCurrentYear()} - <span className="purpleColor font13">Fanatic</span> All Right Reserved
             </StyleP>
 
-            <Link className="whiteColor animate pointer font13" to="home" smooth={true} offset={-80}>
+            <Link className="whiteColor animate pointer font13" to="services" smooth={true} offset={-80}>
               Back to top
             </Link>
           </InnerWrapper>
